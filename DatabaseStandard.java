@@ -1,9 +1,4 @@
-/**
- * DatabaseStandard class for A4 for CSI2110
- * implements DatabaseInterface
- * 
- * @author Daniel Shwan 300013694
- */
+
 import java.util.HashMap;
 
 public class DatabaseStandard implements DatabaseInterface{

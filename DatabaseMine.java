@@ -1,9 +1,4 @@
-/**
- * DatabaseMine class for A4 for CSI2110
- * implements DatabaseInterface
- * 
- * @author Daniel Shwan 300013694
- */
+
 import java.io.UnsupportedEncodingException;
 
 public class DatabaseMine implements DatabaseInterface {

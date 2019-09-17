@@ -1,8 +1,4 @@
-/**
- * class PasswordCracker
- * 
- * @author Daniel Shwan 300013694
- */
+
 import java.util.ArrayList;
 import java.io.UnsupportedEncodingException;
 
